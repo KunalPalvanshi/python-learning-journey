@@ -8,7 +8,8 @@ The goal is simple — not just watching the videos, but actually writing code t
 
 ## 📚 Learning Source
 
-- **Main Course:** [Python Tutorial For Beginners in Hindi | Complete Python Course](https://www.youtube.com/watch?v=UrsmFxEIp5k) — CodeWithHarry
+- **Main Course:** [Python Tutorial For Beginners in Hindi | Complete Python Course](https://www.youtube.com/watch?v=UrsmFxEIp5k) — CodeWithHarry -
+- - **AI Assistant:** [Claude](https://claude.ai) — for doubt-solving, explanations, and practice problems
 
 ---
 
