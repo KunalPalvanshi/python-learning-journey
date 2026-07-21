@@ -22,14 +22,11 @@ Each chapter has its own folder containing:
 python-learning-journey/
 ├── README.md
 ├── 01-modules-comments-pip/
-│   ├── notes.md
-│   └── practice.py
+│   └── chapter01.py
 ├── 02-variables-datatypes/
-│   ├── notes.md
-│   └── practice.py
+│   └── chapter02.py
 ├── 03-strings/
-│   ├── notes.md
-│   └── practice.py
+│   └── chapter03.py
 ...
 ```
 
