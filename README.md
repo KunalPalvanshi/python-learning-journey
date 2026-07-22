@@ -35,7 +35,7 @@ python-learning-journey/
 
 - [x] Chapter 0: What is Programming?
 - [x] Chapter 1: Modules, Comments & pip
-- [x ] Chapter 2: Variables and Datatype
+- [x] Chapter 2: Variables and Datatype
 - [ ] Chapter 3: Strings
 - [ ] Chapter 4: Lists and Tuples
 - [ ] Chapter 5: Dictionary & Sets
