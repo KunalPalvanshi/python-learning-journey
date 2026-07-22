@@ -15,7 +15,7 @@ The goal is simple — not just watching the videos, but actually writing code t
 ## 📂 Repo Structure
 
 Each chapter has its own folder containing:
-- `practice.py` → solutions to that chapter's practice questions
+- `chapter.py` → solutions to that chapter's practice questions
 
 ```
 python-learning-journey/
