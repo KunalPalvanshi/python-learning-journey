@@ -37,7 +37,7 @@ python-learning-journey/
 - [x] Chapter 1: Modules, Comments & pip
 - [x] Chapter 2: Variables and Datatype
 - [x] Chapter 3: Strings
-- [ ] Chapter 4: Lists and Tuples
+- [x] Chapter 4: Lists and Tuples
 - [ ] Chapter 5: Dictionary & Sets
 - [ ] Chapter 6: Conditional Expression
 - [ ] Chapter 7: Loops in Python
