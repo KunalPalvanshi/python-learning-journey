@@ -40,7 +40,7 @@ python-learning-journey/
 - [x] Chapter 4: Lists and Tuples
 - [x] Chapter 5: Dictionary & Sets
 - [x] Chapter 6: Conditional Expression
-- [ ] Chapter 7: Loops in Python
+- [x] Chapter 7: Loops in Python
 - [ ] Chapter 8: Functions & Recursions
 - [ ] Project 1: Snake, Water, Gun Game
 - [ ] Chapter 9: File I/O
